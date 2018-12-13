@@ -1,0 +1,11 @@
+C:\repos\PowersTable\PowersTable\bin\Debug\netcoreapp2.2\PowersTable.deps.json
+C:\repos\PowersTable\PowersTable\bin\Debug\netcoreapp2.2\PowersTable.runtimeconfig.json
+C:\repos\PowersTable\PowersTable\bin\Debug\netcoreapp2.2\PowersTable.runtimeconfig.dev.json
+C:\repos\PowersTable\PowersTable\bin\Debug\netcoreapp2.2\PowersTable.dll
+C:\repos\PowersTable\PowersTable\bin\Debug\netcoreapp2.2\PowersTable.pdb
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.csprojAssemblyReference.cache
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.csproj.CoreCompileInputs.cache
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.AssemblyInfoInputs.cache
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.AssemblyInfo.cs
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.dll
+C:\repos\PowersTable\PowersTable\obj\Debug\netcoreapp2.2\PowersTable.pdb
